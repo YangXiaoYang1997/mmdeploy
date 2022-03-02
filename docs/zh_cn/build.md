@@ -113,8 +113,6 @@ pip install -e .
   ```bash
   sudo apt-get install libopencv-dev
   ```
-  如果部分依赖包下载失败，可以将下载源更换，例如中科大下载源，http://mirrors.ustc.edu.cn/ubuntu
-  
 
 - spdlog 0.16+
 
